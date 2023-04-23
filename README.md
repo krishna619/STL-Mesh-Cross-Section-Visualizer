@@ -24,7 +24,7 @@ pip install numpy matplotlib numpy-stl
 1. Run the script using the following command:
 
 ```
-python stl_cross_section.py
+python additive.py
 ```
 
 2. Enter the file path of the STL file when prompted.
