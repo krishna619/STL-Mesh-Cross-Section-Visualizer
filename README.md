@@ -1,8 +1,6 @@
 # STL-Mesh-Cross-Section-Visualizer
 Sure, here's an example README file you can use for your Python code:
 
-# STL Mesh Cross-Section Visualizer
-
 This Python script reads an STL file and generates a 2D cross-section of the mesh at a given Z plane value.
 
 ## Getting Started
